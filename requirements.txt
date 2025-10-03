@@ -1,0 +1,48 @@
+# MedPal Application Requirements
+# Install with: pip install -r requirements.txt
+
+# Core Framework
+streamlit>=1.29.0
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+
+# Database
+sqlalchemy>=2.0.25
+
+# Authentication & Security
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+python-multipart>=0.0.6
+bcrypt>=4.1.2
+
+# API Requests
+requests>=2.31.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# SMS/Communication
+twilio>=8.11.1
+
+# Data Validation
+pydantic>=2.5.3
+email-validator>=2.1.0
+
+# Date/Time
+python-dateutil>=2.8.2
+
+# Data Processing (for helpers.py)
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Optional: Visualization
+plotly>=5.14.0
+
+# Image Processing
+pillow>=10.0.0
+
+# Optional: For PostgreSQL (uncomment if needed)
+# psycopg2-binary>=2.9.9
+
+# Optional: For MySQL (uncomment if needed)
+# pymysql>=1.1.0

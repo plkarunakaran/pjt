@@ -1,0 +1,51 @@
+[
+  {
+    "type": "blood_pressure",
+    "value": "120/80",
+    "unit": "mmHg",
+    "date": "2025-09-30",
+    "time": "14:23",
+    "source": "manual",
+    "status": "High",
+    "location": "",
+    "device": "",
+    "notes": "",
+    "created_at": "2025-09-30 14:23:49"
+  },
+  {
+    "type": "heart_rate",
+    "value": "72",
+    "unit": "bpm",
+    "date": "2025-09-30",
+    "time": "14:24",
+    "source": "manual",
+    "status": "",
+    "location": "",
+    "device": "",
+    "notes": "",
+    "created_at": "2025-09-30 14:24:06"
+  },
+  {
+    "type": "blood_sugar",
+    "value": "95",
+    "unit": "mg/dL",
+    "date": "2025-09-30",
+    "time": "14:24",
+    "source": "wearable",
+    "status": "Fasting",
+    "location": "",
+    "device": "",
+    "notes": "",
+    "created_at": "2025-09-30 14:24:25"
+  },
+  {
+    "type": "blood_pressure",
+    "value": "130",
+    "unit": "90",
+    "date": "2025-10-02",
+    "time": "09:58",
+    "source": "manual",
+    "notes": "",
+    "created_at": "2025-10-02 09:58:01"
+  }
+]
